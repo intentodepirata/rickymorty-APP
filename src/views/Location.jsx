@@ -1,6 +1,6 @@
 import { Box, Button, Paper, Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
-import FilterLocations from "../components/filterLocations";
+import FilterLocations from "../components/FilterLocations";
 import LocationTitle from "../components/LocationTitle";
 import { useLocation, useParams } from "react-router-dom";
 import CardSmall from "../components/CardSmall";
